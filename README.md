@@ -10,15 +10,15 @@
 
 ###
 
-<p align="left">Reach me at:
+<p align="left"><b>Reach me at:</b>
   <br>
   <a href="mailto:todor.pavlenkov02@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20"/>
-  </a> todor.pavlenkov02@gmail.com
+  </a> <b><i>todor.pavlenkov02@gmail.com</i></b>
   <br>
   <a href="https://www.linkedin.com/in/todor-pavlenkov-75343b254" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"/>
-  </a> Todor Pavlenkov
+  </a> <b><i>Todor Pavlenkov</i></b>
 </p>
 
 ###
